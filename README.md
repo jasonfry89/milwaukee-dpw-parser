@@ -1,4 +1,4 @@
-# Milwaukee Department of Public Works Parser
+# Milwaukee, Wisconsin Department of Public Works Parser
 
 Gets the next upcoming trash and recycling date for an address in Milwaukee, WI. 
 
