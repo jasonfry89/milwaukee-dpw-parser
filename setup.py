@@ -14,6 +14,9 @@ setup(
     author="Jason Fry",
     py_modules=["parser"],
     python_requires=">=3",
+    setup_requires=[
+        "wheel",
+    ],
     install_requires=[
         "requests>=2.19.1",
         "beautifulsoup4>=4.6.1",
