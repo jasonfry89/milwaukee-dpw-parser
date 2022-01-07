@@ -36,5 +36,5 @@ def main():
     print(trash_date)
     print(recycling_date)
 
-
-main()
+if __name__ == "__main__":
+    main()
