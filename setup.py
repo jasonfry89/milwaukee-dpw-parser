@@ -12,7 +12,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/jasonfry89/milwaukee-dpw-parser",
     author="Jason Fry",
-    py_modules=["parser"],
+    py_modules=["mke_dpw_parser"],
     python_requires=">=3",
     setup_requires=[
         "wheel",
